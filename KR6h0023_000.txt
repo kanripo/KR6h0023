@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 菩薩念佛三昧經
+#+DATE: 2015-08-30 20:06:46.731707
+#+PROPERTY: JUAN 0
